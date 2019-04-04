@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://ali126191.github.io/SVHM/Components/Components/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/Components/Sections/SectionBasics/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/Components/Sections/SectionCompletedExamples/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/Components/Sections/SectionDownload/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/Components/Sections/SectionExamples/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/Components/Sections/SectionJavascript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/Components/Sections/SectionLogin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/Components/Sections/SectionNavbars/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/Components/Sections/SectionNotifications/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/Components/Sections/SectionPills/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/Components/Sections/SectionTabs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/Components/Sections/SectionTypography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/landing-page/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/LandingPage/LandingPage/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/LandingPage/Sections/ProductSection/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/LandingPage/Sections/TeamSection/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/LandingPage/Sections/WorkSection/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/login-page/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/LoginPage/LoginPage/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/profile-page/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ali126191.github.io/SVHM/ProfilePage/ProfilePage/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/Components/Components/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/Components/Sections/SectionBasics/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/Components/Sections/SectionCompletedExamples/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/Components/Sections/SectionDownload/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/Components/Sections/SectionExamples/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/Components/Sections/SectionJavascript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/Components/Sections/SectionLogin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/Components/Sections/SectionNavbars/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/Components/Sections/SectionNotifications/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/Components/Sections/SectionPills/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/Components/Sections/SectionTabs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/Components/Sections/SectionTypography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/landing-page/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/LandingPage/LandingPage/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/LandingPage/Sections/ProductSection/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/LandingPage/Sections/TeamSection/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/LandingPage/Sections/WorkSection/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/login-page/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/LoginPage/LoginPage/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/profile-page/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ali126191.github.io/svhm/ProfilePage/ProfilePage/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
